@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+}
+
+.column1 {
+  width: 300px;
+  background-color: yellow;
+  float:left;
+  padding: 10px;
+  margin: 14px;
+  border-radius: 30px;
+}
+
+.column2 {
+  width: 300px;
+  background-color: green;
+  float:left;
+  padding: 10px;
+  margin: 14px;
+  border-radius: 30px;
+}
+
+.column3 {
+  width: 300px;
+  background-color: red;
+  float:left;
+  padding: 10px;
+  margin: 14px;
+  border-radius: 30px;
+}
+
+
+img {
+  display: block;
+  margin: auto;
+}
